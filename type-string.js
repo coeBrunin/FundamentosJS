@@ -1,3 +1,5 @@
+// tipo string
+
 const texto1 = "Olá, mundo!";
 const texto2 = 'Olá, muyndo!';
 const senha = "senhaSuperSegura456!";
